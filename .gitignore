@@ -10,3 +10,6 @@ next-env.d.ts
 
 # Windows download metadata
 *:Zone.Identifier
+
+# Local preparation notes
+사전준비.txt
